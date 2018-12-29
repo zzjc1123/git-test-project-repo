@@ -23,7 +23,12 @@ public class git_test {
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
-
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
+        for (int i = 0; i < 5; i++) {
+            System.out.println(i);
+        }
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
