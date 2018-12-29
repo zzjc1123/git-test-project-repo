@@ -11,6 +11,13 @@ public class git_test {
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         //添加一个循环
+        System.out.println("hello git!!");
+        System.out.println("hello git!!");
+        System.out.println("hello git!!");
+        System.out.println("hello git!!");
+        System.out.println("hello git!!");
+        System.out.println("hello git!!");
+        System.out.println("hello git!!");
 
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
