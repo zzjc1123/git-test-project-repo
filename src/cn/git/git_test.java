@@ -4,10 +4,12 @@ public class git_test {
     public static void main(String[] args) {
         System.out.println("hello git!!");
         System.out.println("hello git!!");
+        System.out.println("你好，孙麟");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
+        System.out.println("你好，孙麟");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello abd");
@@ -22,6 +24,7 @@ public class git_test {
         System.out.println("hello git!!");
         System.out.println("hello git!!");
         System.out.println("hello git!!");
+        System.out.println("你好，孙麟");
         System.out.println("hello git!!");
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
