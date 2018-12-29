@@ -12,6 +12,9 @@ public class git_test {
         System.out.println("hello git!!");
         System.out.println("hello abd");
         System.out.println("hello abd");
+        System.out.println("你好啊，孙麟");
+        System.out.println("你好啊，孙麟");
+        System.out.println("你好啊，孙麟");
         System.out.println("hello abd");
         System.out.println("hello abd");
         System.out.println("hello abd");
@@ -33,5 +36,6 @@ public class git_test {
         for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
+        System.out.println("你好啊，孙麟");
     }
 }
